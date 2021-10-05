@@ -1,0 +1,1 @@
+{"name":"Local: cuttinginterval","url":"c:\\Users\\awast\\mycodes\\Kickstart\\cuttinginterval.cpp","tests":[{"id":1626093885533,"input":"1\n4 2\n3 5\n1 6\n3 8\n8 11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\awast\\mycodes\\Kickstart\\cuttinginterval.cpp","group":"local","local":true}
